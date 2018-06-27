@@ -1,0 +1,12 @@
+Pour le front je vais vous expliquer mais en gros il faut une liste avec tout les voitures, quand on clique sur une des voitures, ça nous emmene sur une page avec la photo et les caractéristiques techniques + crud sur les voitures
+
+
+assets class views components
+
+
+DATABASE named car
+tables:
+brand with columns id and nom
+car with columns model,power,weight,image,max_speed,acceleration,mpg,brand,type
+conso with columns id,nom,maximum
+type with columns id and nom
